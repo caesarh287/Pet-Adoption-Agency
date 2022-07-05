@@ -1,7 +1,3 @@
-# full-stack-pet-adoption-caesarh287
-full-stack-pet-adoption-caesarh287 created by GitHub Classroom
-
-
 In this final project, the aim is to build a complete pet adoption platform with search, user/adoption management and administration dashboard.
 The platform needs to be able to allow users to register, search and adopt pets.
 
